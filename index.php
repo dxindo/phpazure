@@ -1,3 +1,3 @@
 <?php
-    echo "Hello Azure";
+    echo "Selamat kamu telah berhasil membuat aplikasi PHP diatas Azure!";
  ?>
